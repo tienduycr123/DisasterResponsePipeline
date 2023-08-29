@@ -4,10 +4,10 @@
 ## Table of Contents
 - Udacity - Data Scientist Nanodegree Program
   - [Table of Contents](#table-of-contents)
-  - [Project Summary ](#Summary-)
-  - [Project File Description ](#description-)
-  - [Technical stack ](#technical-)
-  - [Installation ](#installation-)
+  - [Project Summary](#Summary-)
+  - [Project File Description](#description-)
+  - [Requirement Technical](#technical-)
+  - [Installation](#Installation-)
   
 ## Project Summary <a name="Summary"></a>
 In this project, we will leverage our knowledge of ETL, Machine Learning, and related databases to analyze disaster data and then build a machine learning model for an API to classify disaster messages.
@@ -43,3 +43,6 @@ You need to have enough of these knowledge before going into project implementat
 ```python run.py```
 
 6. Click the `PREVIEW` button to open the homepage
+
+
+
