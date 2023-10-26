@@ -1,8 +1,6 @@
-# <h1 align="center">Udacity - Data Scientist Nanodegree Program</h1>
-<h2 align="center">Project 2: Disaster Response Pipeline</h2>
+<h1 align="center">Disaster Response Pipeline</h1>
 
 ## Table of Contents
-- Udacity - Data Scientist Nanodegree Program
   - [Table of Contents](#table-of-contents)
   - [Project Summary](#Summary-)
   - [Project File Description](#description-)
